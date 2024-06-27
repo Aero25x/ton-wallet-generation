@@ -2,8 +2,6 @@
 
 ### README in English
 
-![image psd(14)](https://github.com/flaming-chameleon/ton-wallet-generation/assets/73156836/0df6455d-cd51-4061-897e-568edf757db0)
-
 
 # Wallet Generator
 
@@ -25,7 +23,7 @@ This script generates multiple TON blockchain wallets and saves their addresses 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/flaming-chameleon/ton-wallet-generation.git
+    git clone https://github.com/Aero25x/ton-wallet-generation.git
     cd ton-wallet-generation
     ```
 
@@ -73,7 +71,7 @@ This project is licensed under the MIT License.
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/flaming-chameleon/ton-wallet-generation.git
+    git clone https://github.com/Aero25x/ton-wallet-generation.git
     cd ton-wallet-generation
     ```
 
