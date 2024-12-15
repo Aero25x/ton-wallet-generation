@@ -4,6 +4,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@flaming_chameleon)
 
 
+![image](https://github.com/user-attachments/assets/1e972985-90e3-4532-954f-6fc3b5ba0ab2)
+
+
+
 ### README in English
 
 
