@@ -58,6 +58,9 @@ The generated wallet addresses and private keys will be saved in the `wallets.tx
 This project is licensed under the MIT License.
 
 
+[For better understanding work with TON](https://multitools.ovh/base64-decoder/)
+
+
 ### README in Russian
 
 
