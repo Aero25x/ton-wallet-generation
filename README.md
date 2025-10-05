@@ -1,11 +1,5 @@
 # TON Wallet Generator - Bulk TON Blockchain Wallet Creation & Private Key Management Tool
 
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/Aero25x/ton-wallet-generation?style=for-the-badge)](https://github.com/Aero25x/ton-wallet-generation/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TON](https://img.shields.io/badge/TON-Blockchain-0098EA?style=for-the-badge&logo=ton&logoColor=white)](https://ton.org/)
-
 [![Join our Telegram RU](https://img.shields.io/badge/Telegram-RU-03A500?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=red)](https://t.me/hidden_coding)
 [![Join our Telegram ENG](https://img.shields.io/badge/Telegram-EN-03A500?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=red)](https://t.me/hidden_coding_en)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aero25x)
@@ -18,6 +12,13 @@
 > **Professional TON wallet generator for The Open Network blockchain. Create unlimited TON cryptocurrency wallets with private keys, mnemonic seeds, and addresses. Fast batch wallet creation for airdrops, testing, development, payment systems, and crypto projects. Python-based tool with secure key generation using tonsdk library.**
 
 🚀 **[Quick Start Guide](#installation)** | 📚 **[Complete Documentation](#usage)** | 🔧 **[TON Developer Tools](https://multitools.ovh/base64-decoder/)** | 💬 **[Community Support](#support--community)** | 🤝 **[Contribute](#contributing)**
+
+
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/Aero25x/ton-wallet-generation?style=for-the-badge)](https://github.com/Aero25x/ton-wallet-generation/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TON](https://img.shields.io/badge/TON-Blockchain-0098EA?style=for-the-badge&logo=ton&logoColor=white)](https://ton.org/)
 
 ---
 
